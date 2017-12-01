@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "916566160999",
+    "firebase_url": "https://nutritech-10.firebaseio.com",
+    "project_id": "nutritech-10",
+    "storage_bucket": "nutritech-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916566160999:android:77e5fb2ad5b6ed8a",
+        "android_client_info": {
+          "package_name": "com.nutritech.nutritech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916566160999-36ffj5f8talnpmni8l4lavha38o2vgvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nutritech.nutritech",
+            "certificate_hash": "a00a4fe0688a867c0f58504cfee76e4b7ef347c7"
+          }
+        },
+        {
+          "client_id": "916566160999-vnakdsrb07nn6pjlbmpq9nna37p3req8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5LlJxGLhdjqiKlVVk1Xduweni_-PbgQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916566160999-vnakdsrb07nn6pjlbmpq9nna37p3req8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

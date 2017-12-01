@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginLeft="16dp"
+    android:layout_marginBottom="16dp"
+    tools:context="com.nutritech.nutritech.Activity.MenuActivity">
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="MENU"
+        android:textSize="25sp"/>
+
+    <Button
+
+        android:id="@+id/btnCalculoimc"
+        android:layout_width="fill_parent"
+        android:text="Calcular IMC"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnDietas"
+        android:layout_width="fill_parent"
+        android:text="Dietas nutricionais"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnAlimentos"
+        android:layout_width="fill_parent"
+        android:text="Alimentos"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnCalculoAgua"
+        android:layout_width="fill_parent"
+        android:text="Consumo de agua diaria"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        android:src="@mipmap/menuu" />
+
+    <Button
+        android:id="@+id/btnMaps"
+        android:layout_width="match_parent"
+        android:text="Localizacao"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
+
+
+

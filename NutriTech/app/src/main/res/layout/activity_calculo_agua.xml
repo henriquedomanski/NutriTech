@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nutritech.nutritech.Activity.Funcionalidades.CalculoAguaActivity">
+
+    <LinearLayout
+        android:layout_width="373dp"
+        android:layout_height="502dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/txtTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Consumo de água diaria"
+            android:textColor="#e28a0d"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:id="@+id/tvAguaPeso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Digite seu peso"
+            android:textSize="10pt"/>
+
+        <EditText
+            android:id="@+id/editAguaPeso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="date"
+            />
+
+
+
+
+        <Button
+            android:id="@+id/btAguaCalcular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Calcular" />
+
+        <TextView
+            android:id="@+id/tvAguaResultado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="10pt"
+            android:text="" />
+
+
+
+
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/agua"
+            android:layout_height="100dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:src="@mipmap/agua2" />
+
+
+
+
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
