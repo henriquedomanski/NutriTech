@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\598dd1d8215b7cc11aebb0fec9c20677\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\1570c4dc896154e793958e12e68f50aa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\61c1435ca87a3c988b9d38cec7fe8bb1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\86484c80e98aeb1784a9d35e8c5d57f9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f23a0c4893146046c941241a2aee8aab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\dfa40e8b5e5ff60e011936f9375bd110\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7ce74371faf139ac4487b6b332c0a7cf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b98e2635bdb8b041d745bd3c18c7de1f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\abd274448ee7ddbadaaa05500d0240ca\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\656e9b2d4c954885e82a02d539b89eeb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f7eac670dc1430fb2ae9106d644800fa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df495bcfa8bb3486551aeb3cedb4bc80\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\4b3582dd681610ff8f90a9ec78090773\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\bede82200d8fafc30d713be8da0ab5a8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b349e9565e333d5a7d590c7276f97874\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\6222f2115e0ecd46a4f0750cd87544ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\cede59d9dc37fdb00078cc8ca0217214\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3f9e1d31dc3af7bd8cdbef913f55ae64\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b126302b186a34db54799a37453fa26e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\03b0865d29fae75c82114992d5029afc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\407748e86476b8507bfa64fe757df64d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\39c237ee4e3457b53b68c6c650d5e367\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\c5135a738e643c2232b0a3c1857c881c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\a63e1d1967b51cae83d945bf2e93142a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Henrique Domanski\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\5a2320cda91fbfbaa0e8c50430d36916\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Henrique Domanski\Desktop\NutriTech\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+
+</items>
