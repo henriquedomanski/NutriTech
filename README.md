@@ -3,7 +3,7 @@ Aplicativo de nutrição
 
 <img src="https://github.com/henriquedomanski/NutriTech/tree/master/Imagens/Screenshot_20171201-212412.jpg"><br> Inicio<a>
   
-<img src="https://github.com/henriquedomanski/NutriTech/tree/master/Imagens/Screenshot_20171201-212416.jpg><br> Tela de Login <a>
+<img src="https://github.com/henriquedomanski/NutriTech/tree/master/Imagens/Screenshot_20171201-212416.jpg"><br> Tela de Login <a>
 
 <img src="https://github.com/henriquedomanski/NutriTech/tree/master/Imagens/Screenshot_20171201-212419.jpg><br> Tela de Cadastro <a>
 
