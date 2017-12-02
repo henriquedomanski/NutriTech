@@ -1,5 +1,4 @@
 # NutriTech
 Aplicativo de nutrição
 
-<a href="NutriTech/Imagens"> Imagens <a>
-https://github.com/henriquedomanski/NutriTech/tree/master/Imagens
+<a href="https://github.com/henriquedomanski/NutriTech/tree/master/Imagens"> Imagens <a>
